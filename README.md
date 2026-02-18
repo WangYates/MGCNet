@@ -1,1 +1,2 @@
-The training code will be released upon the acceptance of this paper.
+The training code will be made publicly available upon acceptance.
+
